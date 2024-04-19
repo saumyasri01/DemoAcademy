@@ -1,3 +1,3 @@
 This is first git repository.
-Author Saumya Srivastava
+Author Saumya Srivastava(PS)
 # DemoAcademy
